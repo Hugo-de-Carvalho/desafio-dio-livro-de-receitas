@@ -1,3 +1,3 @@
-# Livro de drinks 
+# Livro de drinks
 
 :wave:
